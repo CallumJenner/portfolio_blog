@@ -3,8 +3,8 @@
 
 $dark: #424652;
 $light: #9A8DA4;
-$highlight: #8BC6DB;
-//$highlight: #ea4040; //Red
+//$highlight: #8BC6DB; //Blue
+$highlight: #ea4040; //Red
 $border: #E9E9E9;
 $white: #FFF;
 $input: #F3F3F3;
@@ -136,7 +136,7 @@ hr {
 		float: right;
 		i {
 			color: $dark;
-			margin-left: 1em;
+			margin: .5em;
 			padding-top: .2em;
 			&:hover {
 				color: $highlight;
